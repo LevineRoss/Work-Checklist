@@ -29,7 +29,7 @@
         WORK CHECKLIST
     </div>
     <div class="under-header">
-        Sophie is the best  
+        This system has been created in line with local policies  
     </div>
 
 </div>
